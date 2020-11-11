@@ -5,7 +5,8 @@ email:
   url: mailto:klaushu@outlook.com
   text: klaushu@outlook.com
 phone:
-  text: "手机/微信号：13867908869"
+  url: mailto:13867908869
+  text: "手机/微信号 13867908869"
 # homepage:
 #   url: http://cs.cmu.edu/~woden
 #   text: cs.cmu.edu/~woden
