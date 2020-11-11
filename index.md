@@ -2,11 +2,13 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:klaushu@outlook.com
+  text: klaushu@outlook.com
+phone:
+  text: 手机/微信号：13867908869
+# homepage:
+#   url: http://cs.cmu.edu/~woden
+#   text: cs.cmu.edu/~woden
 ---
 
 # 胡 **赞来**
