@@ -11,7 +11,7 @@ wechat:
 #   text: cs.cmu.edu/~woden
 ---
 
-# 胡 **赞来**
+# **胡** **赞来**
 
 <!--
 include contact information from the front matter
