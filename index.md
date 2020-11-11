@@ -39,7 +39,7 @@ Supported arguments:
 - 软件工程学士
 - GPA:86/100, TOP10%
 
-## Publications
+<!-- ## Publications
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 
@@ -85,9 +85,9 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 ### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
 
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+[[PDF]({{ page.homepage.url }}/assets/superres.pdf)] -->
 
-## Experience
+## 工作经历
 
 ### **Microsoft Research** `2020.5 -`
 
