@@ -89,13 +89,13 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## 工作经历
 
-### **Microsoft Research** `2020.5 -`
+### ** 埃森哲 ** `2020.5 - 至今`
 
-_Research Intern_<br>
+_软件工程师_<br>
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **AIMS Financial Group** `2017.5 - 2017.8`
 
-_Research Assistant_<br>
+_Front-end developer intern_<br>
 **Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
 ### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
