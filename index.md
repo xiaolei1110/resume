@@ -32,10 +32,12 @@ Supported arguments:
 ```
 
 - 人工智能硕士
+- GPA:76/100, TOP20%
 
 ### **浙江师范大学** `2013.9 - 2017.5`
 
 - 软件工程学士
+- GPA:86/100, TOP10%
 
 ## Publications
 
