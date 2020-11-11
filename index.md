@@ -28,29 +28,14 @@ Supported arguments:
 ### **新南威尔士大学** `2018.2 - 2020.2`
 
 ```
-Pittsburgh, PA
+悉尼, 澳大利亚
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- 人工智能硕士
 
-### **Columbia University** `2016.9 - 2018.5`
+### **浙江师范大学** `2013.9 - 2017.5`
 
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- 软件工程学士
 
 ## Publications
 
