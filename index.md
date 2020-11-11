@@ -25,7 +25,7 @@ Supported arguments:
 
 ## 教育经历
 
-### **Carnegie Mellon University** `2018.9 -`
+### **新南威尔士大学** `2018.2 - 2020.2`
 
 ```
 Pittsburgh, PA
