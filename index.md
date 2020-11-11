@@ -23,7 +23,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
 ### **Carnegie Mellon University** `2018.9 -`
 
