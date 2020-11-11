@@ -4,8 +4,7 @@ title: Wode "Nimo" Ni
 email:
   url: mailto:klaushu@outlook.com
   text: klaushu@outlook.com
-phone:
-  url: mailto:13867908869
+wechat:
   text: "手机/微信号 13867908869"
 # homepage:
 #   url: http://cs.cmu.edu/~woden
