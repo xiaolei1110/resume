@@ -89,7 +89,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## 工作经历
 
-### ** 埃森哲 ** `2020.5 - 至今`
+### **埃森哲** `2020.5 - 至今`
 
 _软件工程师_<br>
 
