@@ -46,23 +46,17 @@ Supported arguments:
 上海
 ```
 _软件工程师_<br>
+1. 负责客户方案落地设计、软件开发设计书。
+2. 前端页面逻辑层开发。
+3. 后端API开发、UT测试开发。
+4. 数据库管理。
 
 ### **AIMS Financial Group（宝泽金融集团）** `2017.5 - 2017.8`
 ```
 悉尼, 澳大利亚
 ```
 _前端开发实习生_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+1. 负责页面UI设计和开发。
 
 ## Mentoring
 
