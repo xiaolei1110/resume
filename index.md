@@ -79,7 +79,7 @@ _项目经历_
 
 ## 荣誉/证书
 
-Microsoft Certified: Azure Fundamentals（微软云认证：Azure 初级）[查阅证书](https://www.youracclaim.com/badges/bd5ad8cc-cbbc-4232-b40a-13cffd0a947b/public_url) `2020` <br>
+Microsoft Certified: Azure Fundamentals（微软云认证：Azure 基本原理）[查阅证书](https://www.youracclaim.com/badges/bd5ad8cc-cbbc-4232-b40a-13cffd0a947b/public_url) `2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
 Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
