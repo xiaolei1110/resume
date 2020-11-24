@@ -78,7 +78,7 @@ _项目经历_
 ## 开源项目
 
 ## 专业技能
-● Web开发：Node<br>
+● Web开发：Node.js<br>
 ● 前端框架：Bootstrap/AngularJS<br>
 ● 前端工具：HTML5/CSS/JavaScript/ionic/<br>
 ● 后端框架：Spring Boot/Flask<br>
