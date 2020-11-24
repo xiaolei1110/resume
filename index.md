@@ -77,6 +77,8 @@ _项目经历_
 
 ## 开源项目
 
+## 技术文章
+
 ## 专业技能
 ● Web开发：Node.js<br>
 ● 前端框架：Bootstrap/AngularJS<br>
