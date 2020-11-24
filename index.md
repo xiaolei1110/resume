@@ -77,11 +77,8 @@ _项目经历_
 ● 宝泽集团官方网站项目。负责【个人中心】相关页面的UI/UX设计。
 
 
-## Mentoring
+## 开源项目
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
 ## Honors & Awards
 
@@ -98,16 +95,11 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ---
 
-## Teaching
 
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
-## Service
 
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+
+
 
 <!-- ### Footer
 
