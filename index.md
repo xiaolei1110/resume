@@ -52,7 +52,7 @@ _软件工程师_<br>
 
 
 _项目经历_
-1. EDSP `上海, 2020.5 - 2020.12`<br>
+1. EDSP `2020.5 - 2020.12`<br>
 ● 技术栈：前端Angular、后端Springboot、数据库PostgreSQL、服务器AWS。<br>
 ● 金融项目：车辆保险在线交易系统。团队规模：120+（由中国、日本、东南亚的埃森哲团队共同负责）。<br>
 ● 连携BA现场，分析客户需求并制定软件设计方案，撰写前端、后端设计书。<br>
@@ -69,10 +69,10 @@ _前端开发实习生_<br>
 1. 负责页面UI设计和开发。
 
 _项目经历_
-1. APP SECURITIES 官方网站`悉尼, 2019.9 - 2019.12`<br>
+1. APP SECURITIES 官方网站`2019.9 - 2019.12`<br>
 ● HTML/CSS/JavaScript/bootstrap<br>
 ● 宝泽集团子公司APP SECURITIES的官方网站项目。负责【用户申请及注册】相关页面的UI/UX设计。
-1. AIMS financial group 官方网站 `悉尼, 2019.5 - 2019.9`<br>
+1. AIMS financial group 官方网站 `2019.5 - 2019.9`<br>
 ● HTML/CSS/JavaScript/bootstrap<br>
 ● 宝泽集团官方网站项目。负责【个人中心】相关页面的UI/UX设计。
 
