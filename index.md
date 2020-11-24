@@ -78,14 +78,14 @@ _项目经历_
 ## 开源项目
 
 ## 专业技能
-● Web开发：PHP/Hack/Node<br>
-● Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP<br>
-● 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic<br>
-● 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap<br>
-● 数据库相关：MySQL/PgSQL/PDO/SQLite<br>
-● 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer<br>
-● 单元测试：PHPUnit/SimpleTest/Qunit<br>
-● 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发<br>
+● Web开发：Node<br>
+● 前端框架：Bootstrap/AngularJS<br>
+● 前端工具：HTML5/CSS/JavaScript/ionic/<br>
+● 后端框架：Spring Boot/Flask<br>
+● 后端工具：Java/python<br>
+● 数据库相关：MySQL/PostgreSQL/MongoDB<br>
+● 版本管理、文档和自动化部署工具：Git/sourcetree<br>
+
 ## 荣誉/证书
 
 Microsoft Certified: Azure Fundamentals（微软云认证：Azure 基本原理）[在线查阅证书](https://www.youracclaim.com/badges/bd5ad8cc-cbbc-4232-b40a-13cffd0a947b/public_url) `2020` <br>
