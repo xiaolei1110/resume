@@ -63,16 +63,16 @@ _项目经历_
 
 ### **AIMS Financial Group（宝泽金融集团）** `2019.5 - 2019.11`
 ```
-悉尼, 澳大利亚
+悉尼
 ```
 _前端开发实习生_<br>
 1. 负责页面UI设计和开发。
 
 _项目经历_
-1. APP SECURITIES 官方网站`悉尼,澳大利亚 2019.9 - 2019.12`<br>
+1. APP SECURITIES 官方网站`悉尼, 2019.9 - 2019.12`<br>
 ● HTML/CSS/JavaScript/bootstrap<br>
 ● 宝泽集团子公司APP SECURITIES的官方网站项目。负责【用户申请及注册】相关页面的UI/UX设计。
-1. AIMS financial group 官方网站 `悉尼,澳大利亚 2019.5 - 2019.9`<br>
+1. AIMS financial group 官方网站 `悉尼, 2019.5 - 2019.9`<br>
 ● HTML/CSS/JavaScript/bootstrap<br>
 ● 宝泽集团官方网站项目。负责【个人中心】相关页面的UI/UX设计。
 
