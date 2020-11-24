@@ -82,11 +82,11 @@ _项目经历_
 ## 专业技能
 ● Web开发：Node.js<br>
 ● 前端框架：Bootstrap/AngularJS<br>
-● 前端工具：HTML5/CSS/JavaScript/ionic/<br>
+● 前端工具：HTML5/CSS/JavaScript/ionic<br>
 ● 后端框架：Spring Boot/Flask<br>
 ● 后端工具：Java/python<br>
 ● 数据库相关：MySQL/PostgreSQL/MongoDB<br>
-● 版本管理、文档和自动化部署工具：Git/sourcetree<br>
+● 版本管理、文档和自动化部署工具：Git/sourcetree/Jenkins<br>
 
 ## 荣誉/证书
 
