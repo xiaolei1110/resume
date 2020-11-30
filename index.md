@@ -82,8 +82,8 @@ _项目经历_
 2. 实现将用户自然语言过滤为机器语言，从而对门诊进行预约、取消和修改。<br>
 2. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB
 
-## 技术文章
-### [数据挖掘（一）Introduction 什么是数据挖掘？](https://zhuanlan.zhihu.com/p/119458892)
+<!-- ## 技术文章
+### [数据挖掘（一）Introduction 什么是数据挖掘？](https://zhuanlan.zhihu.com/p/119458892) -->
 
 
 ## 专业技能
