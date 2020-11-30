@@ -83,6 +83,8 @@ _项目经历_
 2. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB
 
 ## 技术文章
+### [数据挖掘（一）Introduction 什么是数据挖掘？](https://zhuanlan.zhihu.com/p/119458892)
+
 
 ## 专业技能
 ● Web开发：Node.js<br>
