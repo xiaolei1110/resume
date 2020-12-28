@@ -44,17 +44,18 @@ Supported arguments:
 ### **埃森哲** `上海, 2020.5 - 至今`
 
 _软件工程师_<br>
-1. 帮助客户方案进行落地设计、软件开发设计书撰写。
-2. 前端页面逻辑层、通用组件的开发
+
+1. 前端页面及共通组件的开发，配合后端完成接口调试。
 2. 后端API及API单元测试、数据库的开发。
+3. 帮助客户方案进行落地设计，提供解决方法并撰写软件开发设计书。
 
 
 _项目经历_
 1. Promise（小额贷款项目） `2020.12 - 至今`<br>
-● 技术栈：前端Angular、Akita、node.js、typescript<br>
+● 技术栈：ionic、Angular、node.js<br>
 ● 在线小额贷款项目。团队规模：100+（由中国和日本埃森哲团队共同负责）。<br>
-● 根据开发文档，进行前端页面开发。<br>
-● 负责【支付】相关的前端页面逻辑层开发，以控制层、前端service/model/query/store开发为主。<br>
+● 前端页面及共通组件的开发。<br>
+● 负责【支付】相关的一整套前端页面开发。以控制层、前端service/model/query/store开发为主。<br>
 
 
 1. EDSP（金融保险项目） `2020.5 - 2020.12`<br>
@@ -94,8 +95,8 @@ _项目经历_
 
 
 ## 专业技能
-● 前端框架：AngularJS<br>
-● 前端工具：HTML5/CSS/JavaScript/ionic<br>
+● 前端框架：AngularJS/ionic<br>
+● 前端工具：HTML/HTML5/CSS/JavaScript/ES6/AJAX<br>
 ● 后端框架：Spring Boot/Flask<br>
 ● 后端工具：Java/python<br>
 ● 数据库相关：MySQL/PostgreSQL/MongoDB<br>
