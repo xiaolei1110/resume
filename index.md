@@ -95,7 +95,7 @@ _项目经历_
 
 
 ## 专业技能
-● 前端框架：AngularJS/ionic<br>
+● 前端框架：Angular/ionic<br>
 ● 前端工具：HTML/CSS/JavaScript<br>
 ● 后端框架：Spring Boot/Flask<br>
 ● 后端工具：Java/python<br>
