@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Hu Zanlai Resume
 email:
   url: mailto:klaushu@outlook.com
   text: klaushu@outlook.com
