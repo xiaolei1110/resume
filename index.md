@@ -6,9 +6,9 @@ email:
   text: klaushu@outlook.com
 wechat:
   text: "mobile/微信号: 13867908869"
-# homepage:
-#   url: http://cs.cmu.edu/~woden
-#   text: cs.cmu.edu/~woden
+homepage:
+  url: https://github.com/zanlaihu
+  text: github
 ---
 
 # **胡** **赞来**
