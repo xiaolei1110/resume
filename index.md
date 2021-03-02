@@ -116,6 +116,3 @@ NAATI（澳大利亚国家级翻译证：英译中）`2018` <br>
 感谢您花时间阅读我的简历，更多信息可访问我的[GitHub博客](https://github.com/zanlaihu/blog/issues)。
 期待能有机会和您共事。
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
