@@ -8,7 +8,7 @@ wechat:
   text: "mobile/微信号: 13867908869"
 homepage:
   url: https://github.com/zanlaihu
-  text: github
+  text: GitHub
 ---
 
 # **胡** **赞来**
