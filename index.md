@@ -90,9 +90,10 @@ _项目经历_
 3. 实现将用户自然语言过滤为机器语言，从而对门诊进行预约、取消和修改。<br>
 4. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB
 
-<!-- ## 技术博客
-
-### [Angular 知识点（一）数据绑定方式](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns) -->
+## 技术博客
+[一起学《精通CSS 高级web标准》](https://www.zhihu.com/column/c_1350025858187464704)
+[一起学习《JavaScript红宝书》](https://www.zhihu.com/column/c_1349521760241541120)
+<!-- ### [Angular 知识点（一）数据绑定方式](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns) -->
 
 ## 专业技能
 
