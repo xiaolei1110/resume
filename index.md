@@ -90,9 +90,9 @@ _项目经历_
 3. 实现将用户自然语言过滤为机器语言，从而对门诊进行预约、取消和修改。<br>
 4. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB
 
-## 技术博客
+<!-- ## 技术博客
 
-### [Angular 知识点（一）数据绑定方式](https://zhuanlan.zhihu.com/p/331714908)
+### [Angular 知识点（一）数据绑定方式](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns) -->
 
 ## 专业技能
 
@@ -113,6 +113,6 @@ NAATI（澳大利亚国家级翻译证：英译中）`2018` <br>
 大学英语6级<br>
 
 ## 致谢
-感谢您花时间阅读我的简历，更多信息可访问我的[GitHub博客](https://github.com/zanlaihu/blog/issues)。
+感谢您花时间阅读我的简历，更多信息和我的学习笔记可访问我的[知乎专栏](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns)。
 期待能有机会和您共事。
 
