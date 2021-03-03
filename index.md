@@ -94,8 +94,8 @@ _项目经历_
 4. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB
 
 ## 技术博客
-● [一起学《精通CSS 高级web标准》](https://www.zhihu.com/column/c_1350025858187464704) </br>
-● [一起学习《JavaScript红宝书》](https://www.zhihu.com/column/c_1349521760241541120)
+### [一起学《精通CSS 高级web标准》](https://www.zhihu.com/column/c_1350025858187464704) 
+### [一起学习《JavaScript红宝书》](https://www.zhihu.com/column/c_1349521760241541120)
 <!-- ### [Angular 知识点（一）数据绑定方式](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns) -->
 
 ## 专业技能
