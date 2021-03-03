@@ -102,7 +102,7 @@ _项目经历_
 
 ● 前端框架：Angular/ionic<br>
 ● 前端工具：HTML/CSS/JavaScript<br>
-● 代码格式检查工具：Eslint/Prettier<br>
+● 代码格式检查工具：Eslint/Prettier/SonarQube<br>
 ● 脚本语言：Java/python<br>
 ● 版本管理、文档和自动化部署工具：Git/sourcetree/Jenkins<br>
 
