@@ -104,8 +104,8 @@ _项目经历_
 
 Microsoft Certified: Azure Fundamentals（微软云认证：Azure 基本原理）[在线查阅证书](https://www.youracclaim.com/badges/bd5ad8cc-cbbc-4232-b40a-13cffd0a947b/public_url) `2020` <br>
 NAATI（澳大利亚国家级翻译证：英译中）`2018` <br>
-浙江省大学生软件服务外包创新应用大赛三等奖`2016` <br>
 浙江师范大学校长特别奖 `2017` <br>
+浙江省大学生软件服务外包创新应用大赛三等奖`2016` <br>
 浙江师范大学优秀团干`2016` <br>
 浙江师范大学校级二等奖学金 `2015` <br>
 大学英语6级<br>
