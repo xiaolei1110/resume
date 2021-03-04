@@ -111,6 +111,7 @@ NAATI（澳大利亚国家级翻译证：英译中）`2018` <br>
 大学英语6级<br>
 
 ## 致谢
-感谢您花时间阅读我的简历，更多信息和我的学习笔记可访问我的[知乎专栏](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns)。
+感谢您花时间阅读我的简历，更多信息和我的学习笔记可访问我的知乎专栏:</br>
+https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns
 期待能有机会和您共事。
 
