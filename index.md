@@ -78,14 +78,14 @@ _项目经历_
 1. AIMS financial group 官方网站 `2019.5 - 2019.9`<br>
    ● 参与了宝泽集团官方网站的【个人中心】相关页面的设计和开发。
 
-<!-- ## 开源项目
+## 开源项目
 
 ### [**用 Flask+dialogflow+Facebook 搭建聊天机器人**](https://zhuanlan.zhihu.com/p/120079499)
 
 1. 以两个 flask 后端为核心，链接 Facebook messenger API 和 Google dialoglfow API。<br>
 2. 获取可视化窗口的用户聊天记录，经 NLP 处理后将请求发至自定义后端，从而对数据库进行增删改查。<br>
 3. 实现将用户自然语言过滤为机器语言，从而对门诊进行预约、取消和修改。<br>
-4. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB -->
+4. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB
 
 ## 技术博客
 ### [一起学习《精通CSS 高级web标准解决方案](https://www.zhihu.com/column/c_1350025858187464704) 
