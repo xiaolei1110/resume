@@ -48,9 +48,8 @@ Supported arguments:
 
 _软件工程师_<br>
 
-1. 根据设计文档需求，进行开发工作。
-2. 前端页面及共通组件的开发，配合后端完成 API 调试。
-3. 后端 API 及 API 单元测试的开发。
+2. 根据设计文档进行前端页面及共通组件的开发，配合后端完成 API 调试。
+3. 根据设计文档进行后端 API 及 API 单元测试的开发。
 
 _项目经历_
 
@@ -94,8 +93,8 @@ _项目经历_
 4. 技术栈为:Python、Flask、Facebook imessenger API、Google dialogflow API、MongoDB
 
 ## 技术博客
-### [一起学《精通CSS 高级web标准》](https://www.zhihu.com/column/c_1350025858187464704) 
-### [一起学习《JavaScript红宝书》](https://www.zhihu.com/column/c_1349521760241541120)
+### [一起学习《精通CSS 高级web标准解决方案](https://www.zhihu.com/column/c_1350025858187464704) 
+### [一起学习《JavaScript高级程序设计》](https://www.zhihu.com/column/c_1349521760241541120)
 <!-- ### [Angular 知识点（一）数据绑定方式](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns) -->
 
 ## 专业技能
