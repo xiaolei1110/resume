@@ -54,34 +54,29 @@ _软件工程师_<br>
 _项目经历_
 
 1. Promise（小额贷款项目） `2020.12 - 至今`<br>
-   ● 技术栈：ionic、Angular、node.js<br>
-   ● 在线小额贷款项目。团队规模：100+（由中国和日本埃森哲团队共同负责）。<br>
-   ● 前端页面及共通组件的开发。<br>
-   ● 负责【还款】相关的一整套前端页面开发。以控制层、前端 service/model/query/store 开发为主。<br>
+   ● 技术栈：Angular、ionic、node.js<br>
+   ● 业务区分为【还款】的一系列前端页面开发。以控制层、前端 service/model/query/store 开发为主。<br>
+   ● 团队规模：100+（由中国和日本埃森哲团队共同负责）。开发周期：8个月<br>
 
 1. EDSP（金融保险项目） `2020.5 - 2020.12`<br>
-   ● 技术栈：前端 Angular、后端 Springboot、数据库 PostgreSQL、服务器 AWS。<br>
-   ● 金融项目：车辆保险在线交易系统。团队规模：120+（由中国、日本、东南亚的埃森哲团队共同负责）。<br>
+   ● 技术栈：Angular、ionic、node.js、Springboot<br>
    ● 连携 BA 现场，分析客户需求并制定软件设计方案，撰写前端、后端设计书。<br>
-   ● 负责【取消/解约】、【付款】相关的前端页面逻辑层开发，以 typescript 开发为主。<br>
-   单独负责【信用卡支付】这个通用组件的开发。<br>
-   ● 负责【取引番号发行】、【邮件送信】、【信用卡情报取得】等多个 API 开发。<br>
-   并制作每个 API 相应 swagger 说明书。
+   ● 负责【取消/解约】、【付款】相关的前端页面逻辑层开发。单独负责【信用卡支付】这个通用组件的开发。<br>
+   ● 负责【取引番号发行】、【邮件送信】、【信用卡情报取得】等多个 API 开发。并制作每个 API 的 swagger 说明书。<br>
+   ● 团队规模：120+（由中国、日本、东南亚的埃森哲团队共同负责）。开发周期：1.5年<br>
 
 ### **AIMS Financial Group（宝泽金融集团）** `悉尼, 2019.5 - 2019.11`
 
 _前端开发实习生_<br>
 
-1. 参与页面 UI/UX 设计和开发。
+1. 使用HTML/CSS/JavaScript/bootstrap，参与mock-up样品页面的 UI/UX 设计和开发，用于商务部决定最终开发方案。
 
 _项目经历_
 
 1. APP SECURITIES 官方网站`2019.9 - 2019.12`<br>
-   ● HTML/CSS/JavaScript/bootstrap<br>
-   ● 宝泽集团子公司 APP SECURITIES 的官方网站项目。负责【用户申请及注册】相关页面的 UI/UX 设计。
+   ● 参与了宝泽集团子公司 APP SECURITIES 的官方网站中【用户申请及注册】相关页面的设计和开发。
 1. AIMS financial group 官方网站 `2019.5 - 2019.9`<br>
-   ● HTML/CSS/JavaScript/bootstrap<br>
-   ● 宝泽集团官方网站项目。负责【个人中心】相关页面的 UI/UX 设计。
+   ● 参与了宝泽集团官方网站的【个人中心】相关页面的设计和开发。
 
 ## 开源项目
 
