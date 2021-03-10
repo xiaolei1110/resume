@@ -3,15 +3,15 @@ layout: cv
 title: Hu Zanlai Resume
 email:
   url: mailto:klaushu@outlook.com
-  text: klaushu@outlook.com
+  text: niexiaolei1110@163.com
 wechat:
-  text: "mobile/微信号: 13867908869"
+  text: "mobile/微信号: n222529"
 homepage:
   url: https://github.com/zanlaihu
   text: GitHub
 ---
 
-# **胡** **赞来**
+# **聂** **晓蕾**
 
 <!--
 include contact information from the front matter
@@ -25,7 +25,7 @@ Supported arguments:
 
 ## 教育经历
 
-### **新南威尔士大学** `2018.2 - 2020.2`
+### **名古屋大学** `2018.2 - 2020.2`
 
 ```
 悉尼, 澳大利亚
@@ -108,11 +108,3 @@ NAATI（澳大利亚国家级翻译证：英译中）`2018` <br>
 浙江省大学生软件服务外包创新应用大赛三等奖`2016` <br>
 浙江师范大学优秀团干`2016` <br>
 浙江师范大学校级二等奖学金 `2015` <br>
-
-## 致谢
-感谢您花时间阅读我的简历，更多信息和我的学习笔记可访问我的知乎专栏:
-
-[知乎专栏链接](https://www.zhihu.com/people/gu-yue-xian-xian-bei/columns)
-
-期待能有机会和您共事。
-
